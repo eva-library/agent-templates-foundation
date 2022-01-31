@@ -15,10 +15,10 @@ This solution is focused for all sectors and industries, featuring the following
 - Cerrar Chat
 - Fin
 - Flujo de Registro
+- Encuesta de Satisfacción (NPS)
 - Hablar con agente
 - Hablar con agente jump
 - Login
-- Menú
 - No esperado
 - Palabrotas
 - Preguntas Frecuentes
