@@ -38,7 +38,7 @@ The purpose is to help you to build your own virtual assistant, to build your ow
 ## How to import a bot template
 It's super easy! Only 5 steps:
 1) First, download Agent Template zip file 
-To Spanish, click [HERE] [Foundation Agent Template.zip](https://github.com/anacarolcsoares/foundation-agent-template/files/7945340/Foundation.Agent.Template.zip)
+To Spanish, click [Here} [Foundation Template.zip](https://github.com/eva-library/agent-templates-foundation/files/8050702/Foundation.Template.zip)
 
 
 2) Then, go to cockpit, press the button "Create a bot", and choose "Import" (as shown in the image below)
