@@ -31,14 +31,16 @@ This feature include Intents, Entities and also all the other eva cells, such as
 The purpose is to help you to build your own virtual assistant, to build your own flows, by offering a ready-made basis with the best UX writing practices in the market, as well as the best practices for using eva.
 
 ### Important
-- Agent Template is a template. That is, you can use as a good foundation, but you must customize the informations for your own business. It means that you should create your own webservice, your own page links, etc... Reach our documentation [HERE]https://docs.eva.bot/eva-by-ntt-data-documentation/ to know more about how to use eva.
+- Agent Template is a template. That is, you can use as a good foundation, but you must customize the informations for your own business. It means that you should create your own webservice, your own page links, etc... Reach our documentation [HERE] https://docs.eva.bot/eva-by-ntt-data-documentation/ to know more about how to use eva.
 - The language is Spanish, but you can translate and edit information as you wish.
 - This feature is only available for eva versions starting with 3.4
 
 ## How to import a bot template
 It's super easy! Only 5 steps:
 1) First, download Agent Template zip file 
-To Spanish, click [Here] [Foundation Template.zip](https://github.com/eva-library/agent-templates-foundation/files/8050702/Foundation.Template.zip)
+To Spanish, click [Here] [Agent Template Foundation Español.zip](https://github.com/eva-library/agent-templates-foundation/files/8412557/f010b448-18c7-4912-bb51-ce202193a3ea.zip)
+
+
 To Portuguese, click [Here]
 [Agent Template Portugues.zip](https://github.com/eva-library/agent-templates-foundation/files/8208454/Agent.Template.Portugues.zip)
 
