@@ -40,10 +40,10 @@ It's super easy! Only 5 steps:
 1) First, download Agent Template zip file 
 To Spanish, click [Here] [Agent_Template_Fundation_Español](https://github.com/eva-library/agent-templates-foundation/files/8474805/8945bf23-17eb-484a-af4f-f9a157645381.zip)
 
-
-
 To Portuguese, click [Here]
-[Agent Template Portugues.zip](https://github.com/eva-library/agent-templates-foundation/files/8208454/Agent.Template.Portugues.zip)
+[Agent_Template_Fundation_Portugués.zip](https://github.com/eva-library/agent-templates-foundation/files/8475029/aa8198b8-48e1-49ea-b7d7-a972be6580c3.zip)
+
+
 
 2) Then, go to cockpit, press the button "Create a bot", and choose "Import" (as shown in the image below)
 
