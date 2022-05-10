@@ -65,7 +65,7 @@ To Portuguese, click [Here]
 
 
 ## Manual
-- Click on this LINK [https://docs.eva.bot/agent-template/v/foundation-agent-template/] to read the agent template manual.
+- Click on this LINK [https://at.docs.eva.bot/ticketing-agent-template] to read the agent template manual.
 
 ## Copyright
 
