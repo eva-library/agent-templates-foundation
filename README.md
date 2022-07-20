@@ -9,22 +9,21 @@ At eva you can use ready to use agent template and just adjust the bot's message
 ## About Agent Template 
 Agent Template is a collection of flows provided by eva that can be used to establish a base for building conversations.
 
-This solution is focused for all sectors and industries, featuring the following 14 core flows for all virtual assistants:
+This solution is focused for all sectors and industries, featuring the following 13 core flows for all virtual assistants:
 
-- Bienvenida
-- Cerrar Chat
-- Fin
-- Flujo de Registro
-- Encuesta de Satisfacción (NPS)
-- Hablar con agente
-- Hablar con agente jump
-- Login
-- No esperado
-- Palabrotas
-- Preguntas Frecuentes
-- Servicio de Atención al Cliente
-- Sugerencia y reclamos
-- Ubicación
+- Close chat 
+- Contact center
+- Customer satisfaction survey
+- End
+- Location 
+- Login 
+- Not expected 
+- Register 
+- Suggestion and claims
+- Swearwords
+- Talk to an agent
+- Talk to an agent Jump
+- Welcome
 
 This feature include Intents, Entities and also all the other eva cells, such as Answer, Service, Jump, Input, Code and Rule.
 
