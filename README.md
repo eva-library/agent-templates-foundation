@@ -31,7 +31,7 @@ This feature include Intents, Entities and also all the other eva cells, such as
 The purpose is to help you to build your own virtual assistant, to build your own flows, by offering a ready-made basis with the best UX writing practices in the market, as well as the best practices for using eva.
 
 ### Important
-- Agent Template is a template. That is, you can use as a good foundation, but you must customize the informations for your own business. It means that you should create your own webservice, your own page links, etc... Reach our documentation [HERE] https://docs.eva.bot/eva-by-ntt-data-documentation/ to know more about how to use eva.
+- Agent Template is a template. That is, you can use as a good foundation, but you must customize the informations for your own business. It means that you should create your own webservice, your own page links, etc... Reach our documentation [HERE] https://docs.eva.bot/ntt-data-eva-docs/start-here/what-is-eva to know more about how to use eva.
 - The language is Spanish, but you can translate and edit information as you wish.
 - This feature is only available for eva versions starting with 3.4
 
