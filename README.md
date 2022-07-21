@@ -1,4 +1,4 @@
-# Agent Template Foundation v 1.0 (spanish and portuguese)
+# Agent Template Foundation v 1.0 (english, spanish and portuguese)
 
 At eva you can use ready to use agent template and just adjust the bot's messages to your needs.
 
@@ -37,6 +37,8 @@ The purpose is to help you to build your own virtual assistant, to build your ow
 ## How to import a bot template
 It's super easy! Only 5 steps:
 1) First, download Agent Template zip file 
+To English, click [Here] [AT Foundation ENG.zip](https://github.com/eva-library/agent-templates-foundation/files/9161912/AT.Foundation.ENG.zip)
+
 To Spanish, click [Here] [AT Foundation ESP.zip](https://github.com/eva-library/agent-templates-foundation/files/9014390/AT.Foundation.ESP.zip)
 
 To Portuguese, click [Here]
