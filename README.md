@@ -44,25 +44,21 @@ To Spanish, click [Here] [AT Foundation ESP.zip](https://github.com/eva-library/
 To Portuguese, click [Here]
 [Agent_Template_Fundation_Portugués.zip](https://github.com/eva-library/agent-templates-foundation/files/8475029/aa8198b8-48e1-49ea-b7d7-a972be6580c3.zip)
 
-
-
 2) Then, go to cockpit, press the button "Create a bot", and choose "Import" (as shown in the image below)
 
-![import bt1](https://user-images.githubusercontent.com/80360505/131180457-0a7f111c-af7e-426a-9be6-82655f8ef21b.jpg)
+![import (1)](https://user-images.githubusercontent.com/95373474/181065887-ee4b3cf9-197f-4a12-9835-1e4b810cbc0a.jpg)
 
-3) Then, give a name to your template:
+3) Then, import the zip file:
 
-![import bt2](https://user-images.githubusercontent.com/80360505/131180529-fbf9ab64-cc4b-489b-ada3-e13cb8fce28a.jpg)
+![import](https://user-images.githubusercontent.com/95373474/181065448-ccf39ac9-5489-44ef-ad5a-800ba1ecb57f.jpg)
 
-4) Finally, import the zip file:
+4) Finally, give a name to your template:
 
-![import bt3](https://user-images.githubusercontent.com/80360505/131180560-192f0cf7-f8c0-431b-bbca-0e30e5a13381.jpg)
-
+![NAME](https://user-images.githubusercontent.com/95373474/181066132-ad4a08d6-1a13-4c0d-bb2b-efdc39d08d93.jpg)
 
 5) Then, ready! Your bot template will be in the bot repository.
 
-![import bt4](https://user-images.githubusercontent.com/80360505/131180623-d1ead3d5-0f2c-4925-8d91-d0799e2c617f.jpg)
-
+![FINISH](https://user-images.githubusercontent.com/95373474/181066454-e7b4fb01-067a-4d09-8bd6-5215191eceff.jpg)
 
 ## Manual
 - Click on this LINK [https://at.docs.eva.bot/ticketing-agent-template] to read the agent template manual.
