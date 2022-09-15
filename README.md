@@ -4,7 +4,7 @@ At eva you can use ready to use agent template and just adjust the bot's message
 
 ## Requirements 
 - eva
-- Has eva 3.4 version
+- Version 3.4 onwards
 
 ## About Agent Template 
 Agent Template is a collection of flows provided by eva that can be used to establish a base for building conversations.
@@ -30,19 +30,19 @@ This feature include Intents, Entities and also all the other eva cells, such as
 The purpose is to help you to build your own virtual assistant, to build your own flows, by offering a ready-made basis with the best UX writing practices in the market, as well as the best practices for using eva.
 
 ### Important
-- Agent Template is a template. That is, you can use as a good foundation, but you must customize the informations for your own business. It means that you should create your own webservice, your own page links, etc... Reach our documentation [HERE] https://docs.eva.bot/ntt-data-eva-docs/start-here/what-is-eva to know more about how to use eva.
+- Agent Template is a template. That is, you can use as a good foundation, but you must customize the informations for your own business. It means that you should create your own webservice, your own page links, etc... Reach our [documentation](https://docs.eva.bot/ntt-data-eva-docs/start-here/what-is-eva) to know more about how to use eva.
 - The language is Spanish, but you can translate and edit information as you wish.
 - This feature is only available for eva versions starting with 3.4
 
 ## How to import a bot template
 It's super easy! Only 5 steps:
 1) First, download Agent Template zip file 
-To English, click [Here] [AT Foundation ENG.zip](https://github.com/eva-library/agent-templates-foundation/files/9161912/AT.Foundation.ENG.zip)
 
-To Spanish, click [Here] [AT Foundation ESP.zip](https://github.com/eva-library/agent-templates-foundation/files/9014390/AT.Foundation.ESP.zip)
+English, [click here](https://github.com/eva-library/agent-templates-foundation/files/9161912/AT.Foundation.ENG.zip)
 
-To Portuguese, click [Here]
-[Agent_Template_Fundation_Portugués.zip](https://github.com/eva-library/agent-templates-foundation/files/8475029/aa8198b8-48e1-49ea-b7d7-a972be6580c3.zip)
+Spanish, [click here](https://github.com/eva-library/agent-templates-foundation/blob/main/ede999fb-3499-4f25-99cd-cfd5dbd80181.zip)
+
+Portuguese, [click here](https://github.com/eva-library/agent-templates-foundation/files/8475029/aa8198b8-48e1-49ea-b7d7-a972be6580c3.zip)
 
 2) Then, go to cockpit, press the button "Create a bot", and choose "Import" (as shown in the image below)
 
@@ -67,5 +67,5 @@ To Portuguese, click [Here]
 
 > Copyright ©
 2021, All rights reserved.
-eva by everis product and its components are the property of everis.
-eva by everis is a software registered by everis
+eva by NTT DATA product and its components are the property of NTT DATA.
+eva by NTT DATA is a software registered by NTT DATA
