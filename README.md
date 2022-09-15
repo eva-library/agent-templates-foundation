@@ -61,7 +61,7 @@ Portuguese, [click here](https://github.com/eva-library/agent-templates-foundati
 ![FINISH](https://user-images.githubusercontent.com/95373474/181066454-e7b4fb01-067a-4d09-8bd6-5215191eceff.jpg)
 
 ## Manual
-- Click on this LINK [https://at.docs.eva.bot/ticketing-agent-template] to read the agent template manual.
+- [Read the Agent Template manual](https://at.docs.eva.bot/ticketing-agent-template)
 
 ## Copyright
 
