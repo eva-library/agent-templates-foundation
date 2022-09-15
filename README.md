@@ -42,7 +42,7 @@ English, [click here](https://github.com/eva-library/agent-templates-foundation/
 
 Spanish, [click here](https://github.com/eva-library/agent-templates-foundation/blob/main/ede999fb-3499-4f25-99cd-cfd5dbd80181.zip)
 
-Portuguese, [click here](https://github.com/eva-library/agent-templates-foundation/files/8475029/aa8198b8-48e1-49ea-b7d7-a972be6580c3.zip)
+Portuguese, [click here](https://github.com/eva-library/agent-templates-foundation/blob/main/850cc22b-13fd-4329-b3d2-f3df0d952d91.zip)
 
 2) Then, go to cockpit, press the button "Create a bot", and choose "Import" (as shown in the image below)
 
