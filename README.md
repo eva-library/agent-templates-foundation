@@ -35,8 +35,9 @@ The purpose is to help you to build your own virtual assistant, to build your ow
 - This feature is only available for eva versions starting with 3.4
 
 ## How to import a bot template
-It's super easy! Only 5 steps:
-1) First, download Agent Template zip file 
+It's easy and can be done in just 5 steps:
+
+1) First, download the Agent Template zip file 
 
 English, [click here](https://github.com/eva-library/agent-templates-foundation/files/9161912/AT.Foundation.ENG.zip)
 
@@ -44,21 +45,21 @@ Spanish, [click here](https://github.com/eva-library/agent-templates-foundation/
 
 Portuguese, [click here](https://github.com/eva-library/agent-templates-foundation/blob/main/850cc22b-13fd-4329-b3d2-f3df0d952d91.zip)
 
-2) Then, go to cockpit, press the button "Create a bot", and choose "Import" (as shown in the image below)
+2) Then, go to the Cockpit, press the + button to add a new virtual agent and choose "Import" (as seen below)
 
-![import (1)](https://user-images.githubusercontent.com/95373474/181065887-ee4b3cf9-197f-4a12-9835-1e4b810cbc0a.jpg)
+![image](https://user-images.githubusercontent.com/113615214/192914579-d00e5c20-5cfd-44a4-9dde-f373253a47b3.png)
 
-3) Then, import the zip file:
+3) Then, choose the option "new ID":
 
-![import](https://user-images.githubusercontent.com/95373474/181065448-ccf39ac9-5489-44ef-ad5a-800ba1ecb57f.jpg)
+![image](https://user-images.githubusercontent.com/113615214/192914588-efe63ba1-4d20-4943-b4fc-c3fde5fb4519.png)
 
-4) Finally, give a name to your template:
+4) Import the zip file and give your VA a name
 
-![NAME](https://user-images.githubusercontent.com/95373474/181066132-ad4a08d6-1a13-4c0d-bb2b-efdc39d08d93.jpg)
+![image](https://user-images.githubusercontent.com/113615214/192914609-3ba2c2a5-85e1-4242-a4d6-60813e4a75d2.png)
 
-5) Then, ready! Your bot template will be in the bot repository.
+5) All done! The virtual agent will be available in your library.
 
-![FINISH](https://user-images.githubusercontent.com/95373474/181066454-e7b4fb01-067a-4d09-8bd6-5215191eceff.jpg)
+![image](https://user-images.githubusercontent.com/113615214/192914623-b8cbf5ba-28c9-48e5-bde7-5e0b5e718c00.png)
 
 ## Manual
 - [Read the Agent Template manual](https://at.docs.eva.bot/ticketing-agent-template)
